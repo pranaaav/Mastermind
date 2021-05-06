@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=ColorGrid
+comment1.params=
+comment1.target=ColorGrid()
+comment10.params=
+comment10.target=java.lang.String\ toString()
+comment2.params=noOfPegs
+comment2.target=ColorGrid(int)
+comment3.params=noOfPegs\ pegs
+comment3.target=ColorGrid(int,\ java.util.List)
+comment4.params=noOfPegs\ colorList
+comment4.target=ColorGrid\ getColorGridInstance(int,\ java.util.List)
+comment5.params=
+comment5.target=java.util.List\ getPegs()
+comment6.params=color
+comment6.target=Peg\ getPegByColorName(java.lang.String)
+comment7.params=pegs
+comment7.target=void\ setPegs(java.util.List)
+comment8.params=
+comment8.target=int\ getNoOfPegs()
+comment9.params=noOfPegs
+comment9.target=void\ setNoOfPegs(int)
+numComments=11

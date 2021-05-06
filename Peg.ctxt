@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Peg
+comment1.params=
+comment1.target=Peg()
+comment2.params=color\ value
+comment2.target=Peg(java.lang.String,\ int)
+comment3.params=
+comment3.target=java.lang.String\ getColor()
+comment4.params=color
+comment4.target=void\ setColor(java.lang.String)
+comment5.params=
+comment5.target=int\ getValue()
+comment6.params=value
+comment6.target=void\ setValue(int)
+comment7.params=peg
+comment7.target=int\ compareTo(Peg)
+comment8.params=
+comment8.target=java.lang.String\ toString()
+numComments=9

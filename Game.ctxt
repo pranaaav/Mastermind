@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Game
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment10.params=
+comment10.target=void\ showWelcomeMessage()
+comment11.params=
+comment11.target=void\ printEnterKeyMessage()
+comment2.params=
+comment2.target=void\ loadGameSettings()
+comment3.params=
+comment3.target=void\ startGame()
+comment4.params=guesses
+comment4.target=void\ evaluateRoundResult(java.util.List)
+comment5.params=points
+comment5.target=void\ updatePlayerScore(int)
+comment6.params=settings
+comment6.target=void\ createRoundInstance(java.lang.String)
+comment7.params=noOfpeg\ pegs
+comment7.target=ColorGrid\ createColorGridInstance(int,\ java.util.List)
+comment8.params=result
+comment8.target=void\ printRoundResult(int[])
+comment9.params=msg\ pegs
+comment9.target=void\ printColors(java.lang.String,\ java.util.List)
+numComments=12
